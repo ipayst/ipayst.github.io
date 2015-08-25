@@ -1,6 +1,6 @@
 {
     "ibeaconId" : "C4A27719-C4A2-7719-C4A2-7719C4A27719",
-    "ibeaconRegionId" : "ag.ums.ipayst.test",
+    "ibeaconRegionId" : "ag.ums.ipayst",
     "welcomeMsg" : "📱Welcome from iPAYst!",
     "byeMsg" : "🎉Bye!"
 }
