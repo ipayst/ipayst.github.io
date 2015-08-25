@@ -1,6 +1,17 @@
 {
     "ibeaconId" : "C4A27719-C4A2-7719-C4A2-7719C4A27719",
     "ibeaconRegionId" : "ag.ums.ipayst",
+    "version" : 1,
+    "major":{
+        "1":
+        {
     "welcomeMsg" : "📱Welcome from iPAYst!",
     "byeMsg" : "🎉Bye!"
+        },
+        "2":
+        {
+    "welcomeMsg" : "🏨Welcome from K!",
+    "byeMsg" : "🏨Bye, see you later!"
+        },
+    }
 }
