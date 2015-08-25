@@ -5,13 +5,13 @@
     "major":{
         "1":
         {
-    "welcomeMsg" : "📱Welcome from iPAYst!",
-    "byeMsg" : "🎉Bye!"
+            "welcomeMsg" : "📱Welcome from iPAYst!",
+            "byeMsg" : "🎉Bye!"
         },
         "2":
         {
-    "welcomeMsg" : "🏨Welcome from K!",
-    "byeMsg" : "🏨Bye, see you later!"
+            "welcomeMsg" : "🏨Welcome from K!",
+            "byeMsg" : "🏨Bye, see you later!"
         },
     }
 }
